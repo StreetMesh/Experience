@@ -6,7 +6,7 @@ A collection of illustrated essays describing life in the virtual world of Stree
 
 ## The Essays
 
-* [Winchester: The First StreetMesh City](/Essays/Winchester-The-First-StreetMesh-City.md) - The future-looking story of the first city to connect to StreetMesh
+* [Winchester: A Walk In Two Worlds](/Essays/Winchester-A-Walk-In-Two-Worlds.md) - The future-looking story of the first city to connect to StreetMesh
 * [Jacking In](/Essays/Jacking-In.md) - What it's like to load into a StreetMesh server
 * [Wandering, But Never Lost] - Exploring the streets of StreetMesh 
 
