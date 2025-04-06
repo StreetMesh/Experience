@@ -16,6 +16,10 @@ This all started when Tim told me about this thing called *StreetMesh*. "It's an
 
 So now I'm standing in the living room, and my Quest has booted up. I'm going to open the Store app, and download the StreetMesh Browser. It's free!
 
-Tim said that when I run Browser, it will ask me to type in a website address, just like a web browser would. And sure enough, there it is. Now I'll enter "streetmesh.com" and hit the go button.  
+Tim said that when I run Browser, the first thing it's going to do is offer me a tutorial. He wants me to skip that and just enter a website address instead. "Just like using a web browser," he said. Cool, no problem. And sure enough, there it is: I can see my living room, and there's a web browser, with an address bar and everything. 
+
+So I'll enter what he said: "tim.streetmesh.com". Now I'll hit the go button. Now it's saying that it looks like I'm new here, and it's asking me to sign in. Tim told me it would do that, too. He told me to sign up with my Meta account so that 
+
+
 
 
