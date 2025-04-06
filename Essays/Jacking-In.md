@@ -10,9 +10,9 @@ Thanks entirely to billions of dollars extracted from our dwindling national att
 
 I just bought the latest model yesterday: a brand new Quest 3S. I've already worked myself through the usual onboarding crap that they make you do when you get a new one: yes, I've cleared my playspace of all obstructions; yes, I've adjusted the lens spacing; yes, I'll take breaks. Come on, I'm ready!
 
-This all started when Tim told me about this thing called *StreetMesh*. "It's an open world in there that maps onto the world we have out here, and they're just getting started," Tim said. "Good enough," I said. "Not like GTA 6 is going to be out anytime soon, anyway." Tim said he could join me inside, and we could do *their* onboarding together.
+This all started when Tim told me about this thing called *StreetMesh*. "It's an open world in there that maps onto the world we have out here, and they're just getting started," Tim said. "Good enough," I said. "Not like GTA 6 is going to be out anytime soon, anyway." Tim said he could join me inside, and we could do the StreetMesh onboarding together.
 
-"Yay. More onboarding. Eye-roll." 
+"Yay. More onboarding." 🙄  
 
 So now I'm standing in the living room, and my Quest has booted up. I'm going to open the Store app, and download the StreetMesh Browser. It's free!
 
