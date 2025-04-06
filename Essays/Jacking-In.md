@@ -14,6 +14,8 @@ This all started when Tim told me about this thing called *StreetMesh*. "It's an
 
 "Yay. More onboarding. Eye-roll." 
 
-So now I'm standing in the living room, and my Quest has booted up. I'm going to go to the App Store 
+So now I'm standing in the living room, and my Quest has booted up. I'm going to open the Store app, and download the StreetMesh Browser. It's free!
+
+Tim said that when I run Browser, it will ask me to type in a website address, just like a web browser would. And sure enough, there it is. Now I'll enter "streetmesh.com" and hit the go button.  
 
 
