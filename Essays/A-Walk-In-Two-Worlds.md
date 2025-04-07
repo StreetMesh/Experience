@@ -4,7 +4,7 @@ Written by: [Aaron Collegeman](https://github.com/collegeman) and ChatGPT 4o
 
 It was an ordinary Saturday morning in Winchester. The city buzzed gently—sunlight warming cobblestone streets, the smell of fresh bread wafting from bakeries, and the usual hum of passersby. Our unnamed protagonist, a quiet man in his thirties, laced up his walking shoes and set out for Old Town. He needed nothing in particular—just air, movement, and maybe a good tune.
 
-As he passed the old stone arch, his phone buzzed. A message blinked on his glasses’ heads-up display: “StreetMesh: Digital Winchester is live.”
+As he passed the old stone arch, his phone buzzed. A message blinked on his glasses’ heads-up display: “StreetMesh: Virtual Winchester is live.”
 A new kind of walk, then. One layered with invisible pathways, sounds, and people, all built on the real—yet now part of something larger.
 
 He hesitated. Virtual overlays weren’t really his thing. He liked things tactile—coffee he could taste, music he could hear without earbuds. But curiosity tugged at him. With a tap, he stepped through the veil into the city’s digital twin.
