@@ -6,7 +6,7 @@ A collection of illustrated essays describing life in the virtual world of Stree
 
 ## The Essays
 
-* [Winchester: A Walk In Two Worlds](/Essays/Winchester-A-Walk-In-Two-Worlds.md) - The future-looking story from the streets of the first city to connect to StreetMesh
+* [A Walk In Two Worlds](/Essays/A-Walk-In-Two-Worlds.md) - A story from the streets of the first city to connect to StreetMesh
 * [Jacking In](/Essays/Jacking-In.md) - What it's like to load into a StreetMesh server
 * [Wandering, But Never Lost](/Essays/Wandering-But-Never-Lost.md) - Exploring the streets of StreetMesh
 * [Through The Looking Glass](/Essays/Through-The-Looking-Glass.md) - Communicating through windows and portals between worlds 
