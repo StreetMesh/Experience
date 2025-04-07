@@ -1,4 +1,4 @@
-# Winchester: A Walk In Two Worlds
+# A Walk In Two Worlds
 
 Written by: [Aaron Collegeman](https://github.com/collegeman) and ChatGPT 4o
 
