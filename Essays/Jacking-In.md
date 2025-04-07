@@ -4,7 +4,7 @@ Written by: [Aaron Collegeman](https://github.com/collegeman) and ChatGPT
 
 Alex had always been curious about the metaverse but never enough to dive in—until now. His friend Tim wouldn’t stop talking about StreetMesh, the next evolution in online presence. After weeks of persuasion, Alex finally caved, purchasing the brand-new Meta Quest 3S, still shiny in its box.
 
-“Trust me, it’s worth it,” Tim had said. “I’ll even onboard with you.” That promise sealed the deal. Alex unboxed the headset, slipped it on, and followed Tim’s instructions: search for ‘Browser’ in the app store and download it. Browser was the portal, Tim said, the key to the entire experience.
+“Trust me, it’s worth it,” Tim had said. “I’ll even onboard with you.” That promise sealed the deal. Alex unboxed the headset, slipped it on, and followed Tim’s instructions: search for ‘StreetMesh’ in the app store and download it. Browser was the portal, Tim said, the key to the entire experience.
 
 Alex hesitated. The living room looked the same through the passthrough display—but now, floating in front of him, was a sleek virtual console suspended in air, shimmering like a dream. Across it blinked a simple prompt:
 “Where do you want to go today?”
