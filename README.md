@@ -22,10 +22,10 @@ We hope you enjoy the adventures. See you on the Street.
 
 ## The Essays
 
-* [A Walk In Two Worlds](/Essays/A-Walk-In-Two-Worlds.md) ([Prompt](/Prompts/A-Walk-In-Two-Worlds.md)) - A story from the streets of the first city to connect to StreetMesh
-* [Jacking In](/Essays/Jacking-In.md) ([Prompt](/Prompts/Jacking-In.md)) - What it's like to load into a StreetMesh server
-* [Wandering, But Never Lost](/Essays/Wandering-But-Never-Lost.md) ([Prompt](/Prompts/Wandering-But-Never-Lost.md)) - Exploring the streets of StreetMesh
-* [Through The Looking Glass](/Essays/Through-The-Looking-Glass.md) ([Prompt](/Prompts/Through-The-Looking-Glass.md)) - Communicating through windows and portals between worlds 
+* [A Walk In Two Worlds](/Essays/A-Walk-In-Two-Worlds.md) ([Prompt](/Prompts/A-Walk-In-Two-Worlds.txt)) - A story from the streets of the first city to connect to StreetMesh
+* [Jacking In](/Essays/Jacking-In.md) ([Prompt](/Prompts/Jacking-In.txt)) - What it's like to load into a StreetMesh server
+* [Wandering, But Never Lost](/Essays/Wandering-But-Never-Lost.md) ([Prompt](/Prompts/Wandering-But-Never-Lost.txt)) - Exploring the streets of StreetMesh
+* [Through The Looking Glass](/Essays/Through-The-Looking-Glass.md) ([Prompt](/Prompts/Through-The-Looking-Glass.txt)) - Communicating through windows and portals between worlds 
 
 ## Contributors
 
