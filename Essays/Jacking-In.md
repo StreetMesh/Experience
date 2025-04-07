@@ -6,10 +6,9 @@ Alex had always been curious about the metaverse but never enough to dive in—u
 
 “Trust me, it’s worth it,” Tim had said. “I’ll even onboard with you.” That promise sealed the deal. Alex unboxed the headset, slipped it on, and followed Tim’s instructions: search for ‘StreetMesh’ in the app store and download it. It's a Browser, like the web browsers we use in the real world, Tim said; it's a portal to the virtual world, the key to the entire experience.
 
-Alex hesitated. The living room looked the same through the passthrough display—but now, floating in front of him, was a sleek virtual console suspended in air, shimmering like a dream. Across it blinked a simple prompt:
-“Where do you want to go today?”
+Alex started the app. Then he hesitated. He could still see his living room, and it looked the same through the passthrough display—but now, floating in front of him was a sleek virtual console suspended in air, shimmering like a dream. Across it blinked a simple prompt: “Where do you want to go today?”
 
-He typed in the StreetMesh address Tim had sent him: tim.streetmesh.com. Instantly, the console shimmered and transformed. On the left, a chrome-skinned robot avatar appeared.
+He used the virtual keyboard to type in the StreetMesh address Tim had sent him: tim.streetmesh.com. Instantly, the console shimmered and transformed. On the left, a chrome-skinned robot avatar appeared.
 
 “Welcome to Tim’s Apartment in Virtual City. Tim let me know you’d be coming. I’ve sent him a message asking him to join us.”
 
@@ -38,9 +37,10 @@ Alex looked at Tim, who grinned:
 The console returned one last time, this time as a poll:
 
 Where do you want to go next?
-	•	The Train Station
-	•	The Library
-	•	Tim’s Apartment
+
+* The Train Station
+* The Library
+* Tim’s Apartment
 
 Tim gestured at the last option.
 
